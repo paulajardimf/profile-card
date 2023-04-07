@@ -20,10 +20,8 @@ export default function Card() {
           <h1>Paula Jardim</h1>
           <h2>Desenvolvedora Full Stack</h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
-            laudantium assumenda adipisci minus quibusdam cupiditate deserunt
-            modi aspernatur cumque laboriosam reprehenderit atque itaque eos,
-            obcaecati est quia ullam labore enim.
+          Desenvolvedora Full Stack, cursando pós graduação em Desenvolvimento Full Stack na Faculdade Descomplica.
+          Tenho formação em Arquitetura e Urbanismo, e possuo experiência em desenvolvimento de treinamentos para equipes, gerenciamento de equipe e escritório, produção de artes gráficas, atendimento, administrativo e financeiro. Entre em contato comigo e confira meus projetos nos links abaixo:
           </p>
           <section className="container-links">
             <a
