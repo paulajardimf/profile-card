@@ -1,4 +1,34 @@
+@use 'variables'
+
 *
   margin: 0
   padding: 0
   box-sizing: border-box
+  list-style: none
+  text-decoration: none
+  font-family: variables.$font-stack
+
+#root
+  max-width: 58em
+  height: 100vh
+  margin: 0 auto
+  display: flex
+  justify-content: center
+  align-items: center
+
+a
+  transition: all 0.3s ease-in-out
+
+h1
+  font-size: variables.$font-size-h1
+  color: variables.$color-gray-700
+
+h2
+  font-size: variables.$font-size-h2
+  background: variables.$gradient-text
+  -webkit-background-clip: text
+  -webkit-text-fill-color: transparent
+
+p
+  font-size: variables.$font-size-p
+  text-align: justify
